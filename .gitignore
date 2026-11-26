@@ -1,0 +1,13 @@
+target/
+frontend/node_modules/
+frontend/dist/
+data/
+*.mv.db
+*.trace.db
+*.log
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+src/main/resources/application.properties
